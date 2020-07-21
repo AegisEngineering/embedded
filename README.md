@@ -3,7 +3,7 @@ Hi, and welcome to my repository for all my personal embedded electronics projec
 
 
 ## Completed projects
-
+-
 
 ## Current projects
 - RGB Blinky on Tiva C TM4C123GXL using ARM asm
@@ -11,5 +11,5 @@ Hi, and welcome to my repository for all my personal embedded electronics projec
 
 ## Future projects
 - Real-time operating system "AegisOS" on STM32F4x (basic scheduler supporting multi-threading, possibly more)
-- Basic handheld calculator (Hardware IC & PCB design, and firmware)
-- Handheld MP3 player (Hardware IC & PCB design, and firmware) 
+- Basic handheld calculator (Hardware schematic, PCB design, and firmware)
+- Handheld MP3 player (Hardware schematic, PCB design, and firmware) 

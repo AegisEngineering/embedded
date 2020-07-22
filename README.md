@@ -3,10 +3,9 @@ Hi, and welcome to my repository for all my personal embedded electronics projec
 
 
 ## Completed projects
--
+- RGB Blinky on Tiva C TM4C123GXL using ARM asm
 
 ## Current projects
-- RGB Blinky on Tiva C TM4C123GXL using ARM asm
 - Hitachi HD44780 LCD Driver on STM32F103C8T6 (Black Pill)
 
 ## Future projects
